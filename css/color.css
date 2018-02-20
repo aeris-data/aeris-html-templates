@@ -1,0 +1,54 @@
+/*****
+* AERIS HTML TEMPLATE
+* SPECIFIC COLOR 
+*
+*/
+
+
+h1,
+h2,
+h3,
+blockquote,
+.main-navigation ul ul li:first-child,
+.main-navigation .nav-menu > .current_page_item > a,
+.main-navigation .nav-menu > .current-menu-item > a,
+.main-navigation .nav-menu > .current_page_ancestor > a,
+.main-navigation .nav-menu > .current-menu-ancestor > a,
+[role="listNews"] article > header > h3,
+.Aeris-seeAllButton {
+    border-color: #4765a0; 
+}
+
+a,
+.main-navigation .nav-menu > li > a:hover,
+.main-navigation .nav-menu > li > a:focus,
+.main-navigation .nav-menu > .current_page_item > a,
+.main-navigation .nav-menu > .current-menu-item > a,
+.main-navigation .nav-menu > .current_page_ancestor > a,
+.main-navigation .nav-menu > .current-menu-ancestor > a
+{
+    color: #4765a0;
+}
+
+aside .widget-title,
+.bkg,
+[role="listNews"] article.format-quote > header > blockquote,
+[role="listProgram"] > header > h2,
+.Aeris-seeAllButton:hover,
+#cookie-notice .button
+    {
+    background: #4765a0;
+    color:#ffffff;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color:#4765a0;
+}
+
+.site-branding h1 a,
+#cookie-notice .button:hover {
+    background-color: rgba(71,101,160,.5);
+    color:#ffffff;
+}
