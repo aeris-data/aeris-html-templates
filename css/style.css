@@ -561,6 +561,17 @@ textarea {
 	width: 100%;
 }
 
+fieldset {
+	margin:20px 0;
+}
+
+legend {
+	text-transform:uppercase;
+	padding:10px;
+	border:1px solid #CCC;
+	background:#666;
+	color:#FFF;
+}
 
 /*--------------------------------------------------------------
 # Icones 

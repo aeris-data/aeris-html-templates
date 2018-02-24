@@ -35,7 +35,12 @@ aside .widget-title,
 [role="listNews"] article.format-quote > header > blockquote,
 [role="listProgram"] > header > h2,
 .Aeris-seeAllButton:hover,
-#cookie-notice .button
+#cookie-notice .button,
+button,
+input[type="button"],
+input[type="reset"],
+input[type="submit"],
+legend
     {
     background: #4765a0;
     color:#ffffff;

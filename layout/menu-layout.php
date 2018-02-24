@@ -2,7 +2,7 @@
     <nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Menu principal / Main menu">
         <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><span class="fa fa-bars"></span></button>
         <div class="menu-main-menu-container">
-            <ul id="primary-menu" class="menu">
+            <ul id="primary-menu" class="menu nav-menu">
                 <li id="menu-item-1022" class="menu-item">
                     <a href="#">Templates</a>
                     <ul class="sub-menu">
@@ -12,15 +12,14 @@
                         <li class="menu-item"><a href="template-fullwidth.php">Template fullwidth</a></li>
                         <li class="menu-item"><a href="index.php">Template homepage</a></li>
                         <li class="menu-item"><a href="template-archive.php">Template archive article</a></li>
-                        <li class="menu-item"><a href="template-single.php">Template single article</a></li>
+                        <li class="menu-item"><a href="template-single.php">Template single article (pas encore fait...)</a></li>
                     </ul>
                 </li>
                 <li class="menu-item">
                     <a href="#">Elements</a>
                     <ul class="sub-menu">
-                        <li class="menu-item"><a href="form.php">Form</a></li>
-                        <li class="menu-item"><a href="gallery.php">Image gallery</a></li>
-                        <li class="menu-item"><a href="video.php">Video page</a></li>
+                        <li class="menu-item"><a href="form.php">Form ( non terminé...)</a></li>
+                        <li class="menu-item"><a href="#">Image gallery</a></li>
                     </ul>
                 </li>
                 <li class="menu-item">
@@ -42,7 +41,6 @@
     <nav id="top-header-menu" role="navigation" aria-label="Menu secondaire / Second menu">
         <div class="menu-header-container">
             <ul id="header-menu" class="menu">
-                <liclass="menu-item"><a href="legal-mentions.php">Mentions légales / Legal mentions</a></li>
                 <li><a href="template-login-page.php"><i class="fa fa-sign-in"></i> Se connecter</a></li>
                 <li><a href="template-login-page.php"><i class="fa fa-sign-out"></i> Se déconnecter</a></li>
             </ul>
